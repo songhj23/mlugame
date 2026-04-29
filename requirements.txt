@@ -1,2 +1,2 @@
 streamlit
-kiwipiepy==0.17.1
+kiwipiepy
